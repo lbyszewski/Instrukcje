@@ -1,0 +1,19 @@
+console.log("witaj");  - strumień wyjścia
+
+let zmiennaA: number = 0; - inicjalizacja zmiennej
+
+	- typy zmiennych : 
+		- string - tekstowy
+		- number - numeryczny
+		- any - uniwersalny
+		- string[], number[] - tablicowy
+- meotody i typy
+	-show(): void - metoda wyświetlająca
+	-calc(): number { return ... ;} - metoda zwracana
+- export class NazwaKlasy {
+	// pola - właściwości
+	// konstruktor - argumentowy
+	// metody
+}
+ 
+
